@@ -1,21 +1,14 @@
 import random
-import torch
-import numpy as np
+from utils.helpers import is_valid_move
+from environment.constants import GUARD_MOVES   
+
 
 class DQNAgent:
-    def __init__(self, model, epsilon=1.0, epsilon_decay=0.995, epsilon_min=0.1):
-        self.model = model
-        self.epsilon = epsilon
-        self.epsilon_decay = epsilon_decay
-        self.epsilon_min = epsilon_min
+    def __init__(self, env):
+        self.env = env
 
-    def select_action(self, state, num_actions):
-        if random.random() < self.epsilon:
-            return random.randint(0, num_actions - 1)  # Explore
-        state_tensor = torch.tensor(state, dtype=torch.float32).unsqueeze(0)
-        with torch.no_grad():
-            q_values = self.model(state_tensor)
-        return q_values.argmax().item()  # Exploit
-
-    def decay_epsilon(self):
-        self.epsilon = max(self.epsilon * self.epsilon_decay, self.epsilon_min)
+    def get_best_move(self):
+        # Placeholder: Random move for now
+        x, y = self.env.dqn_player
+        possible_moves = [(x + dx, y + dy) for dx, dy in GUARD_MOVES if is_valid_move(x + dx, y + dy)]
+        return random.choice(possible_moves)
