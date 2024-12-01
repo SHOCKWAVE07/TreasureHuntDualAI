@@ -1,0 +1,220 @@
+Game played on: 2024-11-30 23:09:43
+Total Turns: 10
+Final Scores: {'Minimax': 1, 'DQN': 0}
+Winner: DQN
+----------------------------------------
+Game played on: 2024-11-30 23:10:11
+Total Turns: 40
+Final Scores: {'Minimax': 2, 'DQN': 1}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-11-30 23:10:45
+Total Turns: 50
+Final Scores: {'Minimax': 3, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-11-30 23:11:04
+Total Turns: 23
+Final Scores: {'Minimax': 3, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-11-30 23:34:59
+Total Turns: 50
+Final Scores: {'Minimax': 2, 'DQN': 3}
+Winner: DQN
+----------------------------------------
+Game played on: 2024-12-01 00:04:20
+Total Turns: 25
+Final Scores: {'Minimax': 2, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 00:04:51
+Total Turns: 50
+Final Scores: {'Minimax': 3, 'DQN': 1}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 00:07:31
+Total Turns: 15
+Final Scores: {'Minimax': 1, 'DQN': 0}
+Winner: DQN
+----------------------------------------
+Game played on: 2024-12-01 00:07:52
+Total Turns: 23
+Final Scores: {'Minimax': 2, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 00:14:42
+Total Turns: 9
+Final Scores: {'Minimax': 1, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 00:17:30
+Total Turns: 50
+Final Scores: {'Minimax': 3, 'DQN': 1}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 00:29:13
+Total Turns: 43
+Final Scores: {'Minimax': 4, 'DQN': 1}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 00:35:06
+Total Turns: 14
+Final Scores: {'Minimax': 0, 'DQN': 0}
+Winner: DQN
+----------------------------------------
+Game played on: 2024-12-01 00:37:13
+Total Turns: 50
+Final Scores: {'Minimax': 2, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 00:40:04
+Total Turns: 32
+Final Scores: {'Minimax': 4, 'DQN': 0}
+Winner: DQN
+----------------------------------------
+Game played on: 2024-12-01 00:46:55
+Total Turns: 50
+Final Scores: {'Minimax': 5, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 00:49:26
+Total Turns: 9
+Final Scores: {'Minimax': 0, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 00:49:36
+Total Turns: 12
+Final Scores: {'Minimax': 1, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 02:41:15
+Total Turns: 7
+Final Scores: {'Minimax': 0, 'DQN': 1}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 02:41:29
+Total Turns: 12
+Final Scores: {'Minimax': 1, 'DQN': 0}
+Winner: DQN
+----------------------------------------
+Game played on: 2024-12-01 02:41:46
+Total Turns: 18
+Final Scores: {'Minimax': 1, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 02:42:01
+Total Turns: 14
+Final Scores: {'Minimax': 0, 'DQN': 1}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 02:44:00
+Total Turns: 12
+Final Scores: {'Minimax': 2, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 02:44:37
+Total Turns: 50
+Final Scores: {'Minimax': 0, 'DQN': 1}
+Winner: DQN
+----------------------------------------
+Game played on: 2024-12-01 02:45:11
+Total Turns: 50
+Final Scores: {'Minimax': 3, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 02:46:46
+Total Turns: 50
+Final Scores: {'Minimax': 2, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 02:48:43
+Total Turns: 12
+Final Scores: {'Minimax': 2, 'DQN': 0}
+Winner: DQN
+----------------------------------------
+Game played on: 2024-12-01 02:49:28
+Total Turns: 16
+Final Scores: {'Minimax': 1, 'DQN': 0}
+Winner: DQN
+----------------------------------------
+Game played on: 2024-12-01 02:50:00
+Total Turns: 50
+Final Scores: {'Minimax': 1, 'DQN': 1}
+Winner: Draw
+----------------------------------------
+Game played on: 2024-12-01 02:51:38
+Total Turns: 50
+Final Scores: {'Minimax': 1, 'DQN': 2}
+Winner: DQN
+----------------------------------------
+Game played on: 2024-12-01 03:01:27
+Total Turns: 27
+Final Scores: {'Minimax': 2, 'DQN': 0}
+Winner: None
+----------------------------------------
+Game played on: 2024-12-01 03:01:44
+Total Turns: 3
+Final Scores: {'Minimax': 0, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 03:02:00
+Total Turns: 13
+Final Scores: {'Minimax': 1, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 15:47:24
+Total Turns: 50
+Final Scores: {'Minimax': 3, 'DQN': 1}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 15:59:19
+Total Turns: 50
+Final Scores: {'Minimax': 2, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 17:26:19
+Total Turns: 50
+Final Scores: {'Minimax': 3, 'DQN': 1}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 17:29:38
+Total Turns: 3
+Final Scores: {'Minimax': 0, 'DQN': 0}
+Winner: DQN
+----------------------------------------
+Game played on: 2024-12-01 17:46:47
+Total Turns: 9
+Final Scores: {'Minimax': 0, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 17:47:06
+Total Turns: 11
+Final Scores: {'Minimax': 3, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 17:47:37
+Total Turns: 50
+Final Scores: {'Minimax': 3, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 17:48:09
+Total Turns: 50
+Final Scores: {'Minimax': 1, 'DQN': 1}
+Winner: Draw
+----------------------------------------
+Game played on: 2024-12-01 17:48:48
+Total Turns: 6
+Final Scores: {'Minimax': 0, 'DQN': 0}
+Winner: DQN
+----------------------------------------
+Game played on: 2024-12-01 17:49:34
+Total Turns: 50
+Final Scores: {'Minimax': 2, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
+Game played on: 2024-12-01 17:50:46
+Total Turns: 50
+Final Scores: {'Minimax': 2, 'DQN': 0}
+Winner: Minimax
+----------------------------------------
